@@ -1,0 +1,38 @@
+.topic{text-align: center;
+		color: red;}
+
+body{max-width: 100%;
+	font-family:"Segoe UI";
+	}
+
+.intro{width: 100%;
+		background-color: red;
+		}
+
+.posl{float: left;
+		width: 30%;
+		
+		}
+
+.posr{float: right;
+		width:60%; 
+		padding-left: 50px;
+		border-top: 20px;
+		border-style: solid;
+		border-width: 2px 0px 0px 0px;
+		padding-top: 20px;
+		padding-bottom: 30px;
+		
+	}
+.red{color: orange;}
+
+.clear{clear: both;}
+
+.post{float: left;
+		width: 30%;
+		border-top: 20px;
+		border-style: solid;
+		border-width: 2px 0px 0px 0px;
+		}
+
+.grey{color: grey;}
