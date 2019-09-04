@@ -36,3 +36,27 @@ body{max-width: 100%;
 		}
 
 .grey{color: grey;}
+
+ul li{list-style-type: none;
+		padding: 10px;
+	}
+
+input[type="text"]{width: 230px;}
+
+input[type="email"]{width: 230px;}
+
+input[type="submit"]{margin: 2% 2%;
+		height: 40px;
+		background: white;
+		border: 2px solid black;
+		border-radius: 16px;
+		width: 120px;
+	}
+
+input[type="submit"]:hover{cursor: pointer;}
+
+form{margin-left: -50px;}
+
+textarea{resize: none;
+		width: 250px;
+	}
